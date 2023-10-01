@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eefc237f.css",
+    "main.js": "/static/js/main.c6f87247.js",
+    "static/media/GfzwEBy5XYUZnfV5tkZ7dH.jpg": "/static/media/GfzwEBy5XYUZnfV5tkZ7dH.d52142189d924f0c9607.jpg",
+    "static/media/crysis.jpg": "/static/media/crysis.089bf89c365705508afe.jpg",
+    "static/media/callofduty.jpg": "/static/media/callofduty.46e34ead55b5b5bbf47f.jpg",
+    "index.html": "/index.html",
+    "main.eefc237f.css.map": "/static/css/main.eefc237f.css.map",
+    "main.c6f87247.js.map": "/static/js/main.c6f87247.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefc237f.css",
+    "static/js/main.c6f87247.js"
+  ]
+}
